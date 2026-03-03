@@ -1,8 +1,8 @@
 # Hi, I'm Rohan Dhobale 👋
 
 🎓 Computer Science Student  
-💻 Learning Data Analytics Data Science & Artificial Intelligence 
-📍 Pune, India  
+💻 Learning Data Analytics, Data Science & Artificial Intelligence 
+📍 Pune, India 
 
 ## 🚀 Skills
 - Python
