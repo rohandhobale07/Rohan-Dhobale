@@ -16,7 +16,6 @@
 
 ## 📚 Currently Learning
 - Computer Vision
-- Data Structures & Algorithms
 - AI Concepts
 
 ## 📫 Connect with Me
