@@ -7,15 +7,13 @@
 ## 🚀 Skills
 - Python
 - Power BI
-- Advanced Excel
-- OpenCV
+- Tableu
 - Machine Learning
 - Deep Learning
 - Gen-AI
-- Problem Solving
+- OpenCV
 
 ## 📚 Currently Learning
-- Computer Vision
 - AI Concepts
 
 ## 📫 Connect with Me
